@@ -17,3 +17,7 @@ To run applications:
 In classes with main method you can find some properties to tweak (number of iterations, speed of ant etc.)
 
 Inspired by https://rosettacode.org/wiki/Langton%27s_ant#Java
+
+Example output:
+
+![Image of example program output](https://raw.githubusercontent.com/tomjankes/langtons-ant/master/example-output.png)
